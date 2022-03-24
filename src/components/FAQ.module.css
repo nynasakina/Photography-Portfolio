@@ -1,0 +1,31 @@
+.accordian {
+  display: flexbox;
+  background-color: white;
+  margin: 30px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.question {
+  background-color: rgb(66, 66, 66);
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+span {
+  font-size: 20px;
+  font-style: oblique;
+}
+
+.answer {
+  visibility: hidden;
+  height: 0px;
+}
+
+.show {
+  visibility: visible;
+}
