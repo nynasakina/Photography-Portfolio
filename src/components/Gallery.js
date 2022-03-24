@@ -43,7 +43,7 @@ const Gallery = () => {
         <button onClick={handleClickCat} name="travel">Travel</button>
       </center>
       <br />
-      <div className="thumbnails" />
+      <div className="thumbnails" >
       {/* insert thumbnails pictures here */}
       {thumbnails.map((data, index) => {
         return (
@@ -53,10 +53,10 @@ const Gallery = () => {
             onClick={handleClick}
           ></img>
         );
-      })}
+      })}</div>
 
       <div className="bigImage">
-        <img src={bigImage} />
+        <img className="image" src={bigImage} />
       </div>
     </>
   );
