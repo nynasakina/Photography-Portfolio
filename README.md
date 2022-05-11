@@ -1,9 +1,8 @@
 Click here for [live demo.](https://portfoliophotographywebsite.netlify.app/)
 
-# Portfolio Website 
+# Photography Portfolio  
 
-A photography portfolio created using ReactJS
-
+Developed for my Project 2 at General Assembly Software Engineering Immersive, this project was inspired by my husband's love for photography. Images in this website belongs to Syahruz [Bliss PhotoCinema](https://www.instagram.com/blissphotocinema/?hl=en).
 
 ## Description
 
