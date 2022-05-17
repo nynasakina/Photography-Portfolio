@@ -1,4 +1,4 @@
-# Photography Portfolio  
+# Photography Portfolio 📸 
 
 Developed for my Project 2 at General Assembly Software Engineering Immersive, this project was inspired by my husband's love for photography. Images in this website belongs to Syahruz [Bliss PhotoCinema](https://www.instagram.com/blissphotocinema/?hl=en).
 
@@ -16,8 +16,8 @@ This project was built using the following:
 
 - ReactJS
 - Styled using CSS 
-- EmailJS to allow emails to be sent directly to inbox
-- Firebase to store images 
+- [EmailJs](https://www.emailjs.com/) to allow emails to be sent directly to inbox
+- [Firebase Google](https://firebase.google.com/) to store images 
 
 # Screenshots
 ## Home Page
@@ -45,7 +45,7 @@ Contact page for users to send any enquiries. Validation is created for each inp
 EmailJS is used to link the Submit button to the inbox, so that admin will be notified of any messages submitted through this form in this page.
 
 ![EmailJS Page](https://i.ibb.co/JmmwHPM/Screenshot-2022-05-17-at-10-36-48-AM.png)
-Customising the email template on [EmailJs](https://www.emailjs.com/)
+Customising the email template on EmailJs
 
 ![EmailJS Page](https://i.ibb.co/CHTmPqs/Screenshot-2022-05-17-at-10-37-20-AM.png)
 After successfully linking admin's Gmail account to EmailJs, admin will start to get notified of any new messages.
