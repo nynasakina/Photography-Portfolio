@@ -4,15 +4,23 @@ Click here for [live demo.](https://portfoliophotographywebsite.netlify.app/)
 
 Developed for my Project 2 at General Assembly Software Engineering Immersive, this project was inspired by my husband's love for photography. Images in this website belongs to Syahruz [Bliss PhotoCinema](https://www.instagram.com/blissphotocinema/?hl=en).
 
-## Description
+## Features
 
-A personal portfolio which features a gallery of some of my best captured photographs as well as a FAQ page and a contact form. This website has a multi-page layout and styled with react-bootstrap and css.
+- About Me 
+- Gallery 
+- FAQ
+- Contact
 
-This project was built using these technologies.
+## Tech Stack 
+This project was built using the following:
 
 - ReactJS
-- CSS 
-- VsCode
+- Styled using CSS 
+- EmailJS to allow emails to be sent directly to inbox
+- Firebase to store images 
 
-## APIs Used
-All images are stored in Firebase.
+# Screenshots
+## Home Page
+
+![Home Page](https://i.ibb.co/hWZCvVY/Screenshot-2022-05-17-at-9-35-25-AM.png)
+
