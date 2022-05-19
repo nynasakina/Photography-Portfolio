@@ -1,6 +1,6 @@
 # 📸 Photography Portfolio 
 
-Developed for my Project 2 at General Assembly Software Engineering Immersive, this project was inspired by my husband's love for photography. Images in this website belongs to Syahruz [Bliss PhotoCinema](https://www.instagram.com/blissphotocinema/?hl=en).
+Developed for my Project 2 at General Assembly Software Engineering Immersive, this project was inspired by my husband's love for photography. Images on this website belong to Syahruz [Bliss PhotoCinema](https://www.instagram.com/blissphotocinema/?hl=en).
 
 Click here for [live demo.](https://photograhyportfolio.netlify.app)
 
