@@ -11,10 +11,7 @@ const HeroSlider = () => {
             src="https://i.ibb.co/DQ7fPpR/53a7bf1f-200b-4b60-b4f1-fb1a4bf5a3aa-DSC-5458.jpg"
             alt=""
           />
-          {/* <Carousel.Caption>
-            <h3></h3>
-            <p></p>
-          </Carousel.Caption> */}
+   
         </Carousel.Item>
         <Carousel.Item interval={500}>
           <img
@@ -29,12 +26,7 @@ const HeroSlider = () => {
             src="https://i.ibb.co/LCJY5H8/image3.jpg"
             alt=""
           />
-          {/* <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
-          </Carousel.Caption> */}
+   
         </Carousel.Item>
       </Carousel>
       {/* <Carousel>
